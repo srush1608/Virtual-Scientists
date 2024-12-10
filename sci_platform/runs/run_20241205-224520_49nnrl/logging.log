@@ -1,0 +1,1 @@
+2024-12-05 22:46:02.117 | INFO     | agentscope.manager._model:load_model_configs:115 - Load configs for model wrapper: ollama_llama3.1_8b, ollama_llama3.1_70b, ollama_llama3_8b, ollama_llama3_70b, ollama_embedding-qwen:0.5b, ollama_embedding-mxbai-embed-large
